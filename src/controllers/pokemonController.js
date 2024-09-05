@@ -66,6 +66,7 @@ class PokemonController {
 
     // console.log(editedPokemon);
     res.json(editedPokemon);
+    console.log('Editado com sucesso');
   }
 
 }
